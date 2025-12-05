@@ -1,7 +1,7 @@
 ---
 layout: post
 title: osu!mania LN Tournament 4 Concludes
-date: 2025-12-08 12:00:00 +0000
+date: 2025-12-03 12:00:00 +0000
 series: community_tournaments
 ---
 
@@ -9,11 +9,11 @@ As o!mLN4 fades into cherished memories, we can reflect on everything that happe
 
 ![](/wiki/shared/news/2025-07-21-osu-mania-ln-tournament-4-registrations-now-open/banner.jpg)
 
-After having witnessed the [start in July](https://osu.ppy.sh/home/news/2025-07-21-osu-mania-ln-tournament-4-registrations-now-open), matches throughout September and October and the final bout on November 2nd, let's take a trip down the *Inverse World of Nouille* once more.
+Let us take a trip down the *Inverse World of Nouille* once more.
 
 ## Summary
 
-![osu!mania LN Tournament 4 podium](/wiki/shared/news/2025-12-08-osumania-ln-tournament-4-concludes/podium.jpg)
+![osu!mania LN Tournament 4 podium](/wiki/shared/news/2025-12-03-osumania-ln-tournament-4-concludes/podium.jpg)
 
 First of all, we present you the LN champions of 2025.
 
@@ -70,12 +70,12 @@ With the late-game fatigue boring down on both players, it came down to a final 
 
 The last pick of the match, [Minerva](https://osu.ppy.sh/beatmapsets/2044392#mania/4266970) (TE3), was an extremely risky move by ::{ flag=US }:: [Nepijin](https://osu.ppy.sh/users/11734610), but nevertheless a necessity with the threat of the remaining easier picks potentially allowing ::{ flag=TH }:: [--Pavin--](https://osu.ppy.sh/users/12046267) to win by consistency. Insanely enough, ::{ flag=TH }:: [--Pavin--](https://osu.ppy.sh/users/12046267) ran ahead of ::{ flag=US }:: [Nepijin](https://osu.ppy.sh/users/11734610) by 10,000 points in the first half, before losing the lead entirely to a huge combo break at the midpoint of the map. The 2nd half was nerve-wrackingly close as they were forced to perform on a highly technical minijack section, which eventually ended up with a 7,178 score difference to ::{ flag=US }:: [Nepijin](https://osu.ppy.sh/users/11734610), winning him the match and the tournament.
 
-## Honourable mentions
+## Honorable mentions
 
 ### Finals: ::{ flag=TH }:: [konkawe](https://osu.ppy.sh/users/15665805) vs. ::{ flag=CL }:: [myucchii](https://osu.ppy.sh/users/10072733)
 
 <div align="center" class="osu-md__paragraph">
-    <iframe width="95%" style="aspect-ratio: 16 / 9;" src="https://www.youtube.com/embed/xaXx-jUi8dk" frameborder="0" allowfullscreen></iframe>
+    <iframe width="95%" style="aspect-ratio: 16 / 9;" src="https://youtube.com/embed/xaXx-jUi8dk" frameborder="0" allowfullscreen></iframe>
 </div>
 
 In o!mLN4, anything can happen. To those who know ::{ flag=CL }:: [myucchii](https://osu.ppy.sh/users/10072733), this might've been one of the greatest upsets in 1v1 osu!mania history, pulled off by none other than our 3rd-place winner ::{ flag=TH }:: [konkawe](https://osu.ppy.sh/users/15665805).
@@ -124,15 +124,15 @@ These matches may have been the most popular highlights of o!mLN4, but this is n
 
 ## Original album: Dilemma of Inverse Worlds
 
-As the main highlight for o!mLN4, the tournament debuted a total of 17 original songs and BGMs used throughout the streams and as part of the custom charts for the tournament bracket matches.
+As the main highlight for o!mLN4, the tournament debuted a total of 18 original songs and BGMs used throughout the streams and as part of the custom charts for the tournament bracket matches.
 
 These songs are released under a special tournament compilation album, named the "Dilemma of Inverse Worlds", capturing the story of our main mascot and character Leon navigating illusions and uncertainties conjured by the main antagonist Eizou and her reflection Misaki.
 
 <div align="center" class="osu-md__paragraph">
-    <iframe width="95%" style="aspect-ratio: 16 / 9;" src="https://www.youtube.com/embed/TODO" frameborder="0" allowfullscreen></iframe>
+    <iframe width="95%" style="aspect-ratio: 16 / 9;" src="https://www.youtube.com/embed/NPpmFBmsGBU" frameborder="0" allowfullscreen></iframe>
 </div>
 
-Our Grand Finals tiebreaker, [Illusion's End ~ Reflection's Awakening](https://osu.ppy.sh/beatmapsets/2455633#mania/5366706), is released as part of the story's climax and confrontation between the 3 characters. As the magnum opus of the tournament's production, combining the efforts unique talents in composition, voice acting, animation, design and charting, we beckon you to watch this masterpiece:
+Our Grand Finals tiebreaker, [Illusion's End ~ Reflection's Awakening](https://osu.ppy.sh/beatmapsets/2455633#mania/5366706), is released as part of the story's climax and confrontation between the 3 characters. As the magnum opus of the tournament's production, combining the efforts including unique talents in composition, voice acting, animation, design and charting, we beckon you to watch this masterpiece:
 
 <div align="center" class="osu-md__paragraph">
     <iframe width="95%" style="aspect-ratio: 16 / 9;" src="https://www.youtube.com/embed/LalyRzkAkmA" frameborder="0" allowfullscreen></iframe>
@@ -164,41 +164,14 @@ At the end of the lucky draw, we ended up with 3 extremely lucky winners with ex
 To view the results of Ordeal In Illusion and also get a peek behind the scenes for every original debuted as part of the mappool, feel free to access the document linked below!
 
 <div align="center">
-    <iframe width="95%" style="aspect-ratio: 1 / 1.414;" src="https://docs.google.com/gview?url=https://assets.ppy.sh/media/news/o!mln4-design.pdf&embedded=true" frameborder="0" allowfullscreen></iframe>
+    <iframe width="95%" style="aspect-ratio: 1.414;" src="https://docs.google.com/gview?url=https://assets.ppy.sh/media/news/o!mln4-design.pdf&embedded=true" frameborder="0" allowfullscreen></iframe>
 </div>
 
 ## Interviews
 
-<style>
-    .news-chat-quote__avatar {
-        float: left;
-        width: 40px;
-        height: 40px;
-        border-radius: 50%;
-        margin-left: -50px;
-    }
-
-    .news-chat-quote__text-container {
-        margin-left: 50px;
-    }
-
-    .news-chat-quote__username {
-        font-weight: 600;
-        margin-bottom: 2px;
-    }
-
-    .news-chat-quote__colour-no-group {
-        color: #FFFFFF;
-    }
-
-    .news-chat-quote__colour-tc {
-        color: #FFB969;
-    }
-</style>
-
 ::{#--pavin--}::
 
-![](/wiki/shared/news/2025-12-08-osumania-ln-tournament-4-concludes/--Pavin--.jpg)
+![](/wiki/shared/news/2025-12-03-osumania-ln-tournament-4-concludes/--Pavin--.jpg)
 
 [--Pavin--](https://osu.ppy.sh/users/12046267), a current member of Team Thailand in [4KMWC 2025](https://osu.ppy.sh/wiki/en/Tournaments/MWC/2025_4K) and part of the winning team in [Touhou Project Mania Cup 4th (THMC4)](https://osu.ppy.sh/wiki/en/Tournaments/TMC/4th), proved himself as one of the best tournament LN players to exist in this current time, clinching the formidable placement of 2nd place for o!mLN4 after his finalist placement last edition.
 
@@ -240,13 +213,9 @@ You have had quite the ride in the past few months with not only this tournament
 
 I am unsure if I will be able to play in more tournaments, as I would like to focus on academics and continue into university, but I may consider joining a few tournaments within my capabilities, maybe 1 to 2 of them. However, I guarantee that I will continue to improve in my physical abilities.
 
-</div>
-
 ::{#mappoolers}::
 
-![](/wiki/shared/news/2025-12-08-osumania-ln-tournament-4-concludes/ImperialTrinity-and-[Crz]Crysarlene.jpg)
-
-<div class="news-chat-quote__text-container">
+![](/wiki/shared/news/2025-12-03-osumania-ln-tournament-4-concludes/ImperialTrinity-and-[Crz]Crysarlene.jpg)
 
 <a class="avatar news-chat-quote__avatar" href="https://osu.ppy.sh/users/14566000" style="background-image: url('/wiki/shared/avatars/epic_man_2.jpg')"></a>
 
@@ -308,15 +277,11 @@ This tournament is definitely one form of us sharing how the LN competition coul
 
 Have fun with the game, life isn't about the result but the journey. Whatever the next journey awaits for us, we will embrace it with open arms.
 
-</div>
-
 ::{#arcwinolivirus}::
 
-![](/wiki/shared/news/2025-12-08-osumania-ln-tournament-4-concludes/arcwinolivirus.jpg)
+![](/wiki/shared/news/2025-12-03-osumania-ln-tournament-4-concludes/arcwinolivirus.jpg)
 
 Many may know [arcwinolivirus](https://osu.ppy.sh/users/2039089) as a top osu!mania player from the Philippines since 2014, eventually turning into various avenues of opportunity in the tournament, from participating in the older 7K osu!mania World Cups, to creating some of the community's most popular ranked maps and more importantly, the first of the 4K LN Tiers. Fast forward by a decade and counting, they've contributed a voice acting role in visual novel–esque story sequences in this tournament.
-
-<div class="news-chat-quote__text-container">
 
 <a class="avatar news-chat-quote__avatar" href="https://osu.ppy.sh/users/14566000" style="background-image: url('/wiki/shared/avatars/epic_man_2.jpg')"></a>
 
@@ -346,15 +311,11 @@ Voicing a main character for the o!mLN4 tournament was a challenging yet a memor
 
 I believe voice acting has great potential in osu! tournaments and community events as it brings a brand new experience to everyone. It provides more emotion, personality, and excitement for both players and the audience. I am looking forward to more story-oriented tournaments like this in the future!
 
-</div>
-
 ## Final thoughts from the hosts
 
 ::{#howtoplayln}::
 
-![](/wiki/shared/news/2025-12-08-osumania-ln-tournament-4-concludes/HowToPlayLN.jpg)
-
-<div class="news-chat-quote__text-container">
+![](/wiki/shared/news/2025-12-03-osumania-ln-tournament-4-concludes/howtoplayln.jpg)
 
 <a class="avatar news-chat-quote__avatar" href="https://osu.ppy.sh/users/10879600" style="background-image: url('/wiki/shared/avatars/HowToPlayLN.jpg')"></a>
 
@@ -374,17 +335,13 @@ Despite all the ideas we started out with, we had been going through a lot of wr
 
 My goal as a composer is to build and communicate stories through music. Even as o!mLN4 ends, the story surrounding Inverse World of Nouille is yet to be concluded. We may have future projects focusing on worldbuilding for Leon and the other characters in this tournament, so stay tuned for the next project that we will embark on!
 
-</div>
-
 ::{#Polytetral}::
 
-![](/wiki/shared/news/2025-12-08-osumania-ln-tournament-4-concludes/Polytetral.jpg)
-
-<div class="news-chat-quote__text-container">
+![](/wiki/shared/news/2025-12-03-osumania-ln-tournament-4-concludes/Polytetral.jpg)
 
 <a class="avatar news-chat-quote__avatar" href="https://osu.ppy.sh/users/8612061" style="background-image: url('/wiki/shared/avatars/Polytetral.jpg')"></a>
 
-<p class="news-chat-quote__username"><a class="news-chat-quote__colour-tc" href="https://osu.ppy.sh/users/8612061">Polytetral</a></p>
+<p class="news-chat-quote__username"><a class="news-chat-quote__colour-no-group" href="https://osu.ppy.sh/users/8612061">Polytetral</a></p>
 
 If I had to sum up the meaning of o!mLN4 to me in one word, it would be a 'journey'. A very long and arduous one at that.
 
@@ -402,15 +359,13 @@ And if all of this does not sound like a journey to you, then I am not sure what
 
 Coming this far, I do not harbour any regrets for this tournament. It was the best it could have been 2–3 years in the making. And facing the uncertain future, I am sure all the skills I have picked up along the way will continue to shape my identity, wherever I end up in life from here.
 
-</div>
-
 ---
 
 This rounds up o!mLN4 and everything that went down in the tournament.
 
 To close out, we would like to thank all participants and the audience for supporting the tournament, and highlight the contributions from XXX individuals who made this ambitious collaboration between music, art and mappools even possible to begin with.
 
-![Credits of everyone involved](/wiki/shared/news/2025-12-08-osumania-ln-tournament-4-concludes/credits.png)
+![Credits of everyone involved](/wiki/shared/news/2025-12-03-osumania-ln-tournament-4-concludes/credits.png)
 
 See you again in the next edition of o!mLN, or where the production of this tournament will take us!
 
